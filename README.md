@@ -7,6 +7,8 @@ directory, then create a team based on that file. Program should be able to read
 student list that is loaded when the user first loads in the list. Program could be able to create teams based on an algorithm,
 teams should have a similar rank to each other.
 
+**Use only as reference please.**
+
 **Critical Requirements for 4+** 
   - [x] On time.
   - [x] Commenting.
